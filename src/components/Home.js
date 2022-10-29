@@ -16,11 +16,11 @@ const Home = () => {
                 </div>
 
                 <div className='pt-3'> 
-                    <a href="/works">
+                    <Link to="/works">
                     <button className='text-white group border-2 px-7 py-4 my-2 flex items-center hover:border-slate-500 text-lg'>View Work
                             <HiArrowNarrowRight className='ml-3 ' />
                     </button>
-                    </a>
+                    </Link>
                     
                 </div>
             </div>
