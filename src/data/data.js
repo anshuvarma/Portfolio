@@ -12,7 +12,7 @@ export const projdata=[
         id:1,
         name:"Portfolio",
         image:PortFolio,
-        github:"",
+        github:"https://github.com/anshuvarma/Portfolio",
         
     },
     {
