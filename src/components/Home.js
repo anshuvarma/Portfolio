@@ -16,8 +16,8 @@ const Home = () => {
                 </div>
 
                 <div className='pt-3'> 
-                    <Link to="/works">
-                    <button className='text-white group border-2 px-7 py-4 my-2 flex items-center hover:border-slate-500 text-lg'>View Work
+                    <Link to="/projects">
+                    <button className='text-white group border-2 px-7 py-4 my-2 flex items-center hover:border-slate-500 text-lg'>View Projects
                             <HiArrowNarrowRight className='ml-3 ' />
                     </button>
                     </Link>
