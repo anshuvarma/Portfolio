@@ -52,7 +52,7 @@ const Navbar = (props) => {
                     </li>
 
                     <li className='w-[150px] h-[60px] flex justify-between items-center ml-[-103px] hover:ml-[-10px] duration-300 bg-[#020a13]'>
-                        <a className='flex justify-between items-center w-full text-gray-300' href="https://docs.google.com/document/d/1bMymAHyM4KRphdXx8sl3PdvvfXe7j0as/edit?usp=sharing&ouid=106733988499391269666&rtpof=true&sd=true">
+                        <a className='flex justify-between items-center w-full text-gray-300' href="https://docs.google.com/document/d/1VHvTTR3EP-Pry0UCPH3D4wypgyavK1gk/edit?usp=sharing&ouid=106733988499391269666&rtpof=true&sd=true">
                             Resume <BsFileEarmarkTextFill size={20} />
                         </a>
                     </li>
